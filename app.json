@@ -1,0 +1,23 @@
+{
+  "name": "UdaciFitness",
+  "displayName": "UdaciFitness",
+  "expo": {
+    "name": "UdaciFitness",
+    "slug": "UdaciFitness",
+    "orientation": "portrait",
+    "description": "Udacity React Course",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "icon": "https://tylermcginnis.com/udacifitness-512.png",
+    "notification": {
+      "icon": "https://tylermcginnis.com/udacifitness-45.png"
+    },
+    "ios": {
+      "bundleIdentifier": "org.udacifitness.exp"
+    },
+    "android": {
+      "package": "org.udacifitness.exp"
+    }
+  }
+}
